@@ -1,0 +1,1 @@
+We used a training module during training and retrained it. We registered two days before the assignment, so we did not have time to train our model to a good result. Have a nice day)
